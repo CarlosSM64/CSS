@@ -1,3 +1,8 @@
+*{
+    font-size: xx-large;
+    color:aqua
+}
+
 p  {
     color: red
 }
@@ -20,4 +25,14 @@ p  {
 background-color: rgb(21, 255, 0);
 font-family: 'Times New Roman', Times, serif;
 border : 15px solid black;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: darkblue;
+}
+
+p.parrafoSubClase {
+    background-color: green;
+    color:yellow;
+    
 }
